@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH", "Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH\Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH.csproj", "{719FB563-774F-4E77-8C26-FC4A41AF672C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719FB563-774F-4E77-8C26-FC4A41AF672C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719FB563-774F-4E77-8C26-FC4A41AF672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719FB563-774F-4E77-8C26-FC4A41AF672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719FB563-774F-4E77-8C26-FC4A41AF672C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2934D0AE-9FBC-421C-AB6B-79D93BFC41C9}
+	EndGlobalSection
+EndGlobal
