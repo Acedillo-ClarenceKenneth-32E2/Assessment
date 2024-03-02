@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/.vs
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/bin/Debug/net8.0
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/obj/Debug/net8.0/staticwebassets
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/obj
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH.csproj
+/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH/Prelim_32A2_BSIT_ACEDILLOCLARENCEKENNETH.csproj.user
